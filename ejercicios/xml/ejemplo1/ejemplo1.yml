@@ -1,0 +1,10 @@
+urlset:
+  - loc: https://www.example.com/
+    lastmod: 2023-10-01
+    changefreq: daily
+    priority: 1.0
+  - loc: https://www.example.com/about
+    lastmod: 2023-09-15
+    changefreq: monthly
+    priority: 0.8
+    
