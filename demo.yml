@@ -1,0 +1,27 @@
+nombre: "Gilmar"
+edad: 30
+talla: 1.74
+hobbies: ['correr', 'jugar', 'leer']
+hobbies2:
+  - 'correr'
+  - 'jugar'
+  - 'leer'
+  - 2
+  - 2.5
+  - 'Gilmar Campana Quispe'
+enActividad: no   #true, false; off, on ; no, yes
+objetos:
+  -primarios: nombres
+  primarios: nombres
+activo: no
+pareja: null
+
+direccion:
+  calle: san jeronimo
+  piso: 1
+
+texto: |
+  descripcion de nombre
+  segundo parrafo
+
+
